@@ -10,7 +10,7 @@ local currentGameId = game.PlaceId
 local gameScripts = {
     -- Special games
     [17298589168] = "https://raw.githubusercontent.com/GeceUstasi/auracraftinfmoney/refs/heads/main/infmoney.lua", -- AuraCraft Infinite Money
-    [128120317905952] = "https://raw.githubusercontent.com/GeceUstasi/buildmode/refs/heads/main/buildmode.lua", -- Build Mode
+    [128120317905952] = "https://raw.githubusercontent.com/GeceUstasi/clicktoaurafarm/refs/heads/main/load.lua", -- Build Mode
     [126884695634066] = "https://raw.githubusercontent.com/GeceUstasi/growagarden/refs/heads/main/laod.lua", -- Grow a Garden
     [118771036645714] = "https://raw.githubusercontent.com/GeceUstasi/trolltower/refs/heads/main/load.lua"
 }
